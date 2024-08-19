@@ -11,6 +11,13 @@ This application helps manage crop and soil data for better agricultural practic
 - **`SoilType.java`**: Enum defining different types of soil.
 - **`CropSoilManagementSystem.java`**: Contains the logic for recommending crops, monitoring soil, and diagnosing diseases.
 
+## Special Features
+
+- **Dynamic Input**: Users can dynamically input soil type, pH level, nutrient level, and fertilizer amount.
+- **Error Handling**: The application handles invalid soil type inputs by defaulting to `LOAMY` and provides appropriate messages for other invalid inputs.
+- **Real-Time Feedback**: Users receive immediate recommendations and diagnostics based on their inputs, helping in making informed decisions.
+- **Interactive**: The command-line interface allows for a straightforward interaction where users can see immediate effects of their inputs.
+
 ## How to Run
 1. Compile all Java files:
    ```bash
