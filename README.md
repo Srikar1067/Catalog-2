@@ -22,3 +22,5 @@ This application helps manage crop and soil data for better agricultural practic
 1. Compile all Java files:
    ```bash
    javac *.java
+
+- ** you can view the source code3 files in catalog-hackathon 2 folder and outputs and outputs folder**
