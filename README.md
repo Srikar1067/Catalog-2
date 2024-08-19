@@ -23,4 +23,7 @@ This application helps manage crop and soil data for better agricultural practic
    ```bash
    javac *.java
 
-- ** you can view the source code3 files in catalog-hackathon 2 folder and outputs and outputs folder**
+## Additional Information
+- **Source Code**: You can view the source code in the `catalog-hackathon-2` folder.
+- **Outputs**: The outputs can be found in the `outputs` folder.
+
